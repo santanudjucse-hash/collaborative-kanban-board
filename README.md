@@ -448,9 +448,3 @@ npm run test:frontend
 ## 18. Incomplete Features
 
 - **None**: All functional and non-functional requirements specified in the machine coding brief have been fully implemented, tested, and verified.
-
----
-
-## 19. Coding Agents Used
-
-- **Antigravity by Google DeepMind**: Used for end-to-end full-stack software architecture, frontend/backend implementation, automated testing suite generation, and documentation.
